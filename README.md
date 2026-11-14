@@ -75,8 +75,14 @@ The chart compares order counts for six restaurants:
 Restaurant-Sales-Analysis/
 ├── Screenshots/
 │   └── dashboard.png
-├── Dataset/                         # Add source data here if it can be shared
-├── Restaurant_Sales_Analysis.pbix  # Add your Power BI file here
+├── Dataset/
+│   └── January_23.xlsx
+│   └── February_23.xlsx
+│   └── March_23.xlsx
+│   └── April_23.xlsx
+│   └── Other_Data.xlsx
+├── Restaurant_Sales_Analysis.pbix/
+│   └── bi_01.pbix
 └── README.md
 ```
 
