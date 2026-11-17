@@ -1,6 +1,6 @@
 # Restaurant Sales Analysis Dashboard | Power BI
 
-An interactive Power BI dashboard for exploring restaurant sales and operations data. The report brings together order trends, food-category quantities, delivery outcomes, payment methods, and restaurant-level order performance in one view.
+An interactive Power BI dashboard for exploring restaurant sales and operations data. The report brings together order trends, food-category quantities, delivery outcomes, payment methods, and restaurant-level order performance in a one view.
 
 ## Dashboard Preview
 
